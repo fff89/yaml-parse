@@ -14,3 +14,9 @@
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
+
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
