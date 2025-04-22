@@ -1,5 +1,22 @@
 # yaml-parse
 
+```js
+import pDebounce from 'p-debounce';import pDebounce from 'p-debounce';import pDebounce from 'p-debounce';import pDebounce from 'p-debounce';import pDebounce from 'p-debounce';import pDebounce from 'p-debounce';import pDebounce from 'p-debounce';import pDebounce from 'p-debounce';import pDebounce from 'p-debounce';import pDebounce from 'p-debounce';import pDebounce from 'p-debounce';import pDebounce from 'p-debounce';import pDebounce from 'p-debounce';import pDebounce from 'p-debounce';import pDebounce from 'p-debounce';
+
+const expensiveCall = async input => input;
+
+const debouncedFunction = pDebounce(expensiveCall, 200);
+
+for (const number of [1, 2, 3]) {
+	(async () => {
+		console.log(await debouncedFunction(number));
+	})();
+}
+//=> 3
+//=> 3
+//=> 3
+```
+
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
