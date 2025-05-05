@@ -21,6 +21,9 @@ for (const number of [1, 2, 3]) {
 - [ ] ggg
 - [ ] aaa
 
+1. [ ] aaa
+2. [ ] xxx
+
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
