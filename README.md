@@ -19,7 +19,7 @@ for (const number of [1, 2, 3]) {
 
 A note[^1]
 
-[^1]: * test
+[^1]: * test   * test2   * test3
 
 ## 测试列表
 * xxx**aaa**
