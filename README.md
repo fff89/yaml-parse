@@ -17,7 +17,7 @@ for (const number of [1, 2, 3]) {
 //=> 3
 ```
 ## 测试
-- [ ] xxx
+- [x] xxx
 - [ ] ggg
 - [ ] aaa
 
