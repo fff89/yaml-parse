@@ -17,6 +17,10 @@ for (const number of [1, 2, 3]) {
 //=> 3
 ```
 
+A note[^1]
+
+[^1]: Big note.
+
 ## 测试列表
 * xxx**aaa**
 * 111`bbbb`
