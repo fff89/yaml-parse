@@ -17,6 +17,8 @@ for (const number of [1, 2, 3]) {
 //=> 3
 ```
 
+---
+
 A note[^1]
 
 [^1]: * test   * test2   * test3
